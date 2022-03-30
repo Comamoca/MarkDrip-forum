@@ -1,0 +1,6 @@
+# MarkDrip-forum
+
+ここはMarkDripのフォーラムです。
+
+MarkDripに対する疑問などはここにのIssueに投稿してください。
+またここにはMarkDripリポには入れないが、MarkDripに関連するファイルやMarkDripに関する実験的なプログラムなどをコミットしていきたいです。
