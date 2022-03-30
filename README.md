@@ -1,4 +1,7 @@
 # MarkDrip-forum
+
+日本語ドキュメントは[こちら](README-ja.md)
+
 MarkDrip forum.
 
 If you have any questions about Mark Drip, please post them here on the Issue.
